@@ -1,0 +1,18 @@
+.profile-page {
+    width: 300px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-top: 50px;
+    text-align: center;
+  }
+  
+  h2 {
+    color: #333;
+  }
+  
+  p {
+    margin-bottom: 10px;
+  }
+  
